@@ -1,0 +1,18 @@
+.nav_container {
+  padding: 15px 0;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.name {
+  font-family: 'Comfortaa';
+  font-weight: 700;
+}
+
+.flex_list {
+  font-family: 'Raleway';
+  display: flex;
+  width: 20%;
+  justify-content: space-between;
+}
